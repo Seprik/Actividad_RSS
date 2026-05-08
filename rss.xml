@@ -2,25 +2,25 @@
 <rss version="2.0">
   <channel>
     <title>Noticias de Tecnología</title>
-    <link>https://github.com/Seprik/Actividad_RSS.git</link>
+    <link>https://seprik.github.io/Actividad_RSS/</link>
     <description>Canal RSS de noticias de tecnologia</description>
     <language>es-es</language>
 
     <item>
       <title>Inteligencia Artificial</title>
-      <link>https://github.com/Seprik/Actividad_RSS.git</link>
+      <link>https://seprik.github.io/Actividad_RSS/</link>
       <description>La inteligencia artificial está revolucionando el mundo.</description>
     </item>
 
     <item>
       <title>Desarrollo Web</title>
-      <link>https://github.com/Seprik/Actividad_RSS.git</link>
+      <link>https://seprik.github.io/Actividad_RSS/</link>
       <description>Las tecnologías web siguen avanzando.</description>
     </item>
 
     <item>
       <title>Ciberseguridad</title>
-      <link>https://github.com/Seprik/Actividad_RSS.git</link>
+      <link>https://seprik.github.io/Actividad_RSS/</link>
       <description>La seguridad es esencial hoy en día.</description>
     </item>
 
