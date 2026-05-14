@@ -1,28 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+
 <rss version="2.0">
-  <channel>
-    <title>Noticias de Tecnología</title>
-    <link>https://seprik.github.io/Actividad_RSS/</link>
-    <description>Canal RSS de noticias de tecnologia</description>
-    <language>es-es</language>
 
-    <item>
-      <title>Inteligencia Artificial</title>
-      <link>https://seprik.github.io/Actividad_RSS/</link>
-      <description>La inteligencia artificial está revolucionando el mundo.</description>
-    </item>
+    <channel>
 
-    <item>
-      <title>Desarrollo Web</title>
-      <link>https://seprik.github.io/Actividad_RSS/</link>
-      <description>Las tecnologías web siguen avanzando.</description>
-    </item>
+        <title>Noticias Deportivas</title>
+        <link>https://seprik.github.io/Actividad_RSS/deporte.xhtml</link>
+        <description>Canal RSS sobre noticias deportivas</description>
+        <language>es-es</language>
 
-    <item>
-      <title>Ciberseguridad</title>
-      <link>https://seprik.github.io/Actividad_RSS/</link>
-      <description>La seguridad es esencial hoy en día.</description>
-    </item>
+        <item>
+            <title>El Real Madrid gana la final</title>
+            <link>https://seprik.github.io/Actividad_RSS/deporte.xhtml</link>
+            <description>
+                El Real Madrid consiguió una importante victoria en la final.
+            </description>
+        </item>
 
-  </channel>
+        <item>
+            <title>Nueva temporada de Fórmula 1</title>
+            <link>https://seprik.github.io/Actividad_RSS/deporte.xhtml</link>
+            <description>
+                Los equipos presentan sus nuevos coches para 2026.
+            </description>
+        </item>
+
+        <item>
+            <title>España prepara el Mundial</title>
+            <link>https://seprik.github.io/Actividad_RSS/deporte.xhtml</link>
+            <description>
+                La selección española comienza los entrenamientos.
+            </description>
+        </item>
+
+    </channel>
+
 </rss>
